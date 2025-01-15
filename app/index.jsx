@@ -13,7 +13,7 @@ const app = () => {
 
         <Link href="/contact" style={{marginHorizontal: 'auto'}} asChild>
           <Pressable style={styles.button}>
-            <Text style={styles.buttonText}>Contact Us</Text>
+            <Text style={styles.buttonText}>Hello</Text>
           </Pressable>
         </Link>
 
